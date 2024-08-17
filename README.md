@@ -1,7 +1,8 @@
-Step 1: Create a Basic Static Website
+### Step 1: Create a Basic Static Website
 
 Create two HTML files: index.html and error.html.
-Step 2: Configure an S3 Bucket for Website Hosting
+
+### Step 2: Configure an S3 Bucket for Website Hosting
 
 1. *Create a Bucket:*
     - Go to the S3 console in AWS.
